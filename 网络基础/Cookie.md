@@ -1,3 +1,5 @@
+# Cookie Session Token
+
 首先我来看几个面试题
 
 >cookie和session的关系,区别?
@@ -8,13 +10,7 @@
 >
 >cookie，session，token又有什么关系和区别。
 
-在我开始前，我们要记住一点：
-
-**http是无状态协议！！！**
-
-**http是无状态协议！！！**
-
-**http是无状态协议！！！**
+在我开始前，我们要记住一点：**http是无状态协议！！！http是无状态协议！！！http是无状态协议！！！**
 
 # Cookie
 
